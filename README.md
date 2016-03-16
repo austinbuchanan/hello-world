@@ -1,2 +1,4 @@
 # hello-world
-random stuff
+hay u guise i can github now
+
+just playing with some stuff atm
